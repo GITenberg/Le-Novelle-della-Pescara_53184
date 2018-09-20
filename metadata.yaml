@@ -1,5 +1,8 @@
 _repo: Le-Novelle-della-Pescara_53184
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53184-h/images/cover.jpg
 creator:
   author:
     agent_name: D'Annunzio, Gabriele
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9030
     wikipedia: http://en.wikipedia.org/wiki/Gabriele_D'Annunzio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53184#Le-Novelle-della-Pescara
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2016-10-01'
 gutenberg_type: Text
