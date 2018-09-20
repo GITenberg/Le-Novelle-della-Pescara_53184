@@ -1,0 +1,36 @@
+_repo: Le-Novelle-della-Pescara_53184
+_version: 0.0.1
+creator:
+  author:
+    agent_name: D'Annunzio, Gabriele
+    aliases:
+    - Montenevoso, Gabriele d’Annunzio, principe di
+    - Annunzio, Gabriele d'
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '9030'
+    url: http://www.gutenberg.org/2009/agents/9030
+    wikipedia: http://en.wikipedia.org/wiki/Gabriele_D'Annunzio
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2016-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53184'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction -- 20th century'
+- !lcc 'PQ'
+- !lcsh 'Short stories, Italian'
+- !lcsh 'Italy -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: La vergine Orsola -- La vergine Anna -- Gli idolatri -- L'eroe --
+  La veglia funebre -- La contessa d'Amalfi -- La morte del duca d'Ofena -- Il traghettatore
+  -- Agonia -- La fine di Candia -- La fattura -- I marenghi -- La madia -- Mungià
+  -- La guerra del Ponte -- Turlendana ritorna -- Turlendana ebro -- Il cerusico di
+  mare.
+title: Le Novelle della Pescara
+url: http://www.gutenberg.org/ebooks/53184
